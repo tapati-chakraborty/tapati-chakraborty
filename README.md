@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tapati-chakraborty
+- 👋 Hi, I’m Tapati Chakraborty
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on different projects.
