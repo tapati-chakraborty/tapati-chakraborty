@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me : tapatichakraborty0800@gmail.com
 
-This is how my Holopin Badge board looks like....🤩
+This is exactly what my Holopin Badge board looks like....🤩👇👇👇
+
+
 [![@tapatichakraborty21's Holopin board](https://holopin.me/tapatichakraborty21)](https://holopin.io/@tapatichakraborty21)
 
 <!---
